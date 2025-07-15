@@ -1,6 +1,31 @@
-## Hi!👋 I'm Solo
+## Hi there! 👋 I'm Solo Nuansa
 
-I am a statistics student at Sebelas Maret University with a passion for data science and machine learning.
+I'm a statistics student at Sebelas Maret University, passionate about data science, machine learning, and statistical analysis. I enjoy transforming data into actionable insights and building predictive models to solve real-world problems.
+
+### 🔬 Interests
+- Data Science & Analytics
+- Machine Learning & AI
+- Statistical Modeling
+- Data Visualization
+- Research & Innovation
+
+### 🛠️ Skills
+- Programming Languages: Python, R
+- Data Manipulation: pandas, dplyr
+- Statistical Analysis: statsmodels, R base/stats
+- Machine Learning: scikit-learn, caret
+- Data Visualization: matplotlib, seaborn, ggplot2
+- Database & Query: SQL (basic)
+- Tools: Jupyter Notebook, RStudio, Git
+
+### 📚 Currently Learning
+- Deep Learning (TensorFlow, PyTorch)
+- Advanced Statistical Methods
+- Big Data Technologies
+
+### 🤝 Let's Connect!
+- 📫 Email: solonuansa@gmail.com
+- 🌐 [LinkedIn](https://linkedin.com/in/solonuansa)
 
 <!--
 **solonuansa/solonuansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
