@@ -11,21 +11,19 @@ I'm a statistics student at Sebelas Maret University, passionate about data scie
 
 ### 🛠️ Skills
 - Programming Languages: Python, R
-- Data Manipulation: pandas, dplyr
-- Statistical Analysis: statsmodels, R base/stats
-- Machine Learning: scikit-learn, caret
-- Data Visualization: matplotlib, seaborn, ggplot2
+- Statistical Analysis: RStudio, SPSS, Minitab
+- Data Visualization: Tableau, Excel
 - Database & Query: SQL (basic)
 - Tools: Jupyter Notebook, RStudio, Git
 
 ### 📚 Currently Learning
 - Deep Learning (TensorFlow, PyTorch)
-- Advanced Statistical Methods
-- Big Data Technologies
+- Image Processing
+- Time Series Analysis
 
 ### 🤝 Let's Connect!
 - 📫 Email: solonuansa@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/solonuansa)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/solo-bening/)
 
 <!--
 **solonuansa/solonuansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
