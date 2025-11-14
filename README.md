@@ -1,41 +1,61 @@
-## Hi there! 👋 I'm Solo Nuansa
+# Solo Bening Nuansa Nanditya
 
-I'm a statistics student at Sebelas Maret University, passionate about data science, machine learning, and statistical analysis. I enjoy transforming data into actionable insights and building predictive models to solve real-world problems.
+**Statistics Student | Data Science Enthusiast**
 
-### 🔬 Interests
-- Data Science & Analytics
-- Machine Learning & AI
-- Statistical Modeling
-- Data Visualization
-- Research & Innovation
+---
 
-### 🛠️ Skills
-- Programming Languages: Python, R
-- Statistical Analysis: RStudio, SPSS, Minitab
-- Data Visualization: Tableau, Excel
-- Database & Query: SQL (basic)
-- Tools: Jupyter Notebook, RStudio, Git
+## About Me
 
-### 📚 Currently Learning
-- Deep Learning (TensorFlow, PyTorch)
-- Image Processing
-- Time Series Analysis
+I am a statistics student at Sebelas Maret University with a passion for data science, machine learning, and statistical analysis. My expertise lies in transforming complex datasets into actionable insights and developing predictive models to address real-world challenges. I am committed to advancing my knowledge in emerging technologies and best practices in data science.
 
-### 🤝 Let's Connect!
-- 📫 Email: solonuansa@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/solo-bening/)
+---
 
-<!--
-**solonuansa/solonuansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Interests
 
-Here are some ideas to get you started:
+- **Data Science & Analytics** — Exploratory data analysis and statistical inference
+- **Machine Learning & Artificial Intelligence** — Algorithm development and model optimization
+- **Statistical Modeling** — Regression, classification, and predictive analytics
+- **Data Visualization** — Creating meaningful visual representations of data
+- **Research & Innovation** — Applying data-driven approaches to solve complex problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+**Programming Languages**
+- Python (NumPy, Pandas, Scikit-learn)
+- R (Data manipulation and statistical analysis)
+
+**Statistical Tools & Platforms**
+- RStudio, SPSS, Minitab
+- Jupyter Notebook
+
+**Data Visualization & Business Intelligence**
+- Tableau
+- Microsoft Excel
+
+**Database & Data Querying**
+- SQL (Intermediate)
+
+**Version Control & Development**
+- Git
+
+---
+
+## Current Focus
+
+- Deep Learning frameworks (TensorFlow, PyTorch)
+- Image Processing and Computer Vision
+- Time Series Analysis and Forecasting
+- Advanced Statistical Modeling
+
+---
+
+## Contact & Connect
+
+**Email:** solonuansa@gmail.com  
+**LinkedIn:** [Solo Bening](https://www.linkedin.com/in/solo-bening/)
+
+---
+
+*Last Updated: November 2025*
