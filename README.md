@@ -3,7 +3,7 @@
 **Statistics Student | Data Science Enthusiast**
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 <p>
@@ -22,22 +22,22 @@ Statistics student at Sebelas Maret University with a passion for data science, 
 
 ## Technical Skills
 
-### Programming & Statistical Computing
-- **Python** — NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-- **R** — dplyr, ggplot2, tidyverse, statistical modeling
-- **SQL** — Data querying and database management
+### Programming
+- **Python**
+- **R** 
+- **SQL**
 
 ### Tools & Platforms
 - **Statistical Analysis** — RStudio, SPSS, Minitab
 - **Development Environment** — Jupyter Notebook, VS Code
-- **Data Visualization** — Tableau, Microsoft Excel, Power BI
+- **Data Visualization** — Tableau, Microsoft Excel
 - **Version Control** — Git, GitHub
 
 ### Core Competencies
 - Exploratory Data Analysis (EDA)
 - Statistical Modeling & Inference
-- Machine Learning & Predictive Analytics
-- Data Visualization & Reporting
+- Machine Learning
+- Data Visualization
 - Time Series Analysis
 
 ---
@@ -48,7 +48,7 @@ Statistics student at Sebelas Maret University with a passion for data science, 
 Statistical inference, hypothesis testing, and exploratory data analysis
 
 **Machine Learning**  
-Supervised and unsupervised learning, algorithm optimization, model evaluation
+Supervised and unsupervised learning
 
 **Statistical Modeling**  
 Regression analysis, classification techniques, predictive modeling
@@ -60,11 +60,9 @@ Creating compelling visual narratives from complex datasets
 
 ## Current Learning Path
 
-- Deep Learning with TensorFlow and PyTorch
+- Deep Learning
 - Computer Vision and Image Processing
-- Time Series Forecasting Methods
-- Advanced Statistical Techniques
-- Big Data Technologies
+- Time Series Forecasting
 
 ---
 
