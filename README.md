@@ -1,9 +1,13 @@
-# Solo Bening Nuansa Nanditya
+<h1 align="center">Hi, I'm Solo Bening Nuansa Nanditya</h1>
 
-**Statistics Student | Data Science Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4A90E2&center=true&vCenter=true&width=500&lines=Statistics+Student;Data+Science+Enthusiast;Machine+Learning+Explorer;Turning+Data+Into+Insights" />
+</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&theme=dark&layout=compact&hide_border=false&include_all_commits=true&langs_count=10" alt="Top Languages" />
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&theme=dark&layout=compact&hide_border=false&include_all_commits=true&langs_count=10" />
 </p>
 
 ---
@@ -64,14 +68,6 @@ Creating compelling visual narratives from complex datasets
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=solonuansa&theme=dark&hide_border=false" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/solonuansa/solonuansa/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
