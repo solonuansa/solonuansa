@@ -20,23 +20,27 @@ Statistics student at Sebelas Maret University with a passion for data science, 
 
 ## Technical Skills
 
-### Programming
-- **Python**
-- **R** 
-- **SQL**
+### Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-9ece6a?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-b48ead?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-### Tools & Platforms
-- **Statistical Analysis** — RStudio, SPSS, Minitab
-- **Development Environment** — Jupyter Notebook, VS Code
-- **Data Visualization** — Tableau, Microsoft Excel
-- **Version Control** — Git, GitHub
+### Frameworks & Libraries  
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-ff9e64?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-7dcfff?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tidyverse-565f89?style=for-the-badge&logo=r&logoColor=white">
+</p>
 
-### Core Competencies
-- Exploratory Data Analysis (EDA)
-- Statistical Modeling & Inference
-- Machine Learning
-- Data Visualization
-- Time Series Analysis
+### Tools & Platforms  
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-7aa2f7?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/RStudio-2ac3de?style=for-the-badge&logo=rstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-9ece6a?style=for-the-badge&logo=tableau&logoColor=white">
+</p>
 
 ---
 
