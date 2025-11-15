@@ -1,13 +1,14 @@
-<h1 align="center">Hi, I'm Solo Bening Nuansa Nanditya</h1>
+<h1 align="center">Solo Bening Nuansa Nanditya</h1>
+<h3 align="center" style="color:#7aa2f7;">Statistics & Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4A90E2&center=true&vCenter=true&width=500&lines=Statistics+Student;Data+Science+Enthusiast;Machine+Learning+Explorer;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Turning+Data+Into+Insights;Deep+Learning+%7C+Computer+Vision" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&theme=dark&layout=compact&hide_border=false&include_all_commits=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
@@ -22,24 +23,24 @@ Statistics student at Sebelas Maret University with a passion for data science, 
 
 ### Languages  
 <p>
-  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-9ece6a?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-b48ead?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-7aa2f7?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-9ece6a?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-b48ead?style=flat&logo=postgresql&logoColor=white">
 </p>
 
 ### Frameworks & Libraries  
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-ff9e64?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-7dcfff?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tidyverse-565f89?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-ff9e64?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-7dcfff?style=flat&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tidyverse-565f89?style=flat&logo=r&logoColor=white">
 </p>
 
 ### Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-7aa2f7?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/RStudio-2ac3de?style=for-the-badge&logo=rstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-9ece6a?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-7aa2f7?style=flat&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/RStudio-2ac3de?style=flat&logo=rstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-9ece6a?style=flat&logo=tableau&logoColor=white">
 </p>
 
 ---
