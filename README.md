@@ -3,13 +3,7 @@
 **Statistics Student | Data Science Enthusiast**
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
-
-<p>
-  <a href="mailto:solonuansa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/solo-bening/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/solonuansa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&theme=dark&layout=compact&hide_border=false&include_all_commits=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
@@ -66,12 +60,34 @@ Creating compelling visual narratives from complex datasets
 
 ---
 
-## Connect With Me
+## GitHub Activity
 
-**Email:** [solonuansa@gmail.com](mailto:solonuansa@gmail.com)  
-**LinkedIn:** [solo-bening](https://www.linkedin.com/in/solo-bening/)  
-**Kaggle:** [solonuansa](https://www.kaggle.com/solonuansa)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=solonuansa&theme=dark&hide_border=false" />
+</p>
 
 ---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/solonuansa/solonuansa/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:solonuansa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/solo-bening/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/solonuansa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  Thank you for visiting my profile.
+</p>
 
 *Last Updated: November 2025*
