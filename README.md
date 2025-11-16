@@ -23,24 +23,27 @@ Statistics student at Sebelas Maret University with a passion for data science, 
 
 ### Languages  
 <p>
-  <img src="https://img.shields.io/badge/Python-7aa2f7?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-9ece6a?style=flat&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-b48ead?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-9ece6a?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-b48ead?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ### Frameworks & Libraries  
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-ff9e64?style=flat&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-7dcfff?style=flat&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tidyverse-565f89?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-ff9e64?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-7dcfff?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tidyverse-565f89?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
 ### Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-7aa2f7?style=flat&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/RStudio-2ac3de?style=flat&logo=rstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-9ece6a?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-7aa2f7?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/RStudio-2ac3de?style=for-the-badge&logo=rstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-9ece6a?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Minitab-ff6c6b?style=for-the-badge&logo=minitab&logoColor=white">
 </p>
 
 ---
@@ -48,13 +51,13 @@ Statistics student at Sebelas Maret University with a passion for data science, 
 ## Areas of Interest
 
 **Data Science & Analytics**  
-Statistical inference, hypothesis testing, and exploratory data analysis
+Statistical inference and exploratory data analysis
 
 **Machine Learning**  
 Supervised and unsupervised learning
 
-**Statistical Modeling**  
-Regression analysis, classification techniques, predictive modeling
+**Time Series Forecasting**  
+Modeling and predicting temporal data patterns
 
 **Data Visualization**  
 Creating compelling visual narratives from complex datasets
@@ -80,9 +83,10 @@ Creating compelling visual narratives from complex datasets
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:solonuansa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/solo-bening/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/solonuansa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
+  <a href="mailto:solonuansa@gmail.com"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/solo-bening/"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/solobeningnuansa"><img src="https://img.shields.io/badge/Kaggle-7aa2f7?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://instagram.com/soonuansa"><img src="https://img.shields.io/badge/Instagram-7aa2f7?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
