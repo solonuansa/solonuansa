@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#7aa2f7;">Statistics & Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Turning+Data+Into+Insights;Deep+Learning+%7C+Computer+Vision" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Data+Science+Enthusiast;Turning+Data+Into+Insights;Deep+Learning+%7C+Computer+Vision" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Statistical inference and exploratory data analysis
 Supervised and unsupervised learning
 
 **Time Series Forecasting**  
-Modeling and predicting temporal data patterns
+Modeling and predicting time series data
 
 **Data Visualization**  
 Creating compelling visual narratives from complex datasets
@@ -83,16 +83,10 @@ Creating compelling visual narratives from complex datasets
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:solonuansa@gmail.com"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/solo-bening/"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/solobeningnuansa"><img src="https://img.shields.io/badge/Kaggle-7aa2f7?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://instagram.com/soonuansa"><img src="https://img.shields.io/badge/Instagram-7aa2f7?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:solonuansa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/solo-bening/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/solobeningnuansa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://instagram.com/soonuansa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
-
-<p align="center">
-  Thank you for visiting my profile.
-</p>
-
-*Last Updated: November 2025*
