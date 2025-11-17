@@ -67,7 +67,7 @@ Creating compelling visual narratives from complex datasets
 ## Current Learning Path
 
 - Deep Learning
-- Computer Vision and Image Processing
+- Computer Vision
 - Time Series Forecasting
 
 ---
