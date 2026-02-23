@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solonuansa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=400&exclude_repo=github-readme-stats" />
 </p>
 
 ---
@@ -69,14 +69,6 @@ Creating compelling visual narratives from complex datasets
 - Deep Learning
 - Computer Vision
 - Time Series Forecasting
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=solonuansa&theme=dark&hide_border=false" />
-</p>
 
 ---
 
